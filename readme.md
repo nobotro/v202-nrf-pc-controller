@@ -22,4 +22,4 @@ https://www.youtube.com/watch?v=3xs4lEP5NvE
  - https://github.com/goebish/nrf24_multipro/blob/master/nRF24_multipro/V2x2.ino
  - https://bitbucket.org/rivig/v202/src/default/
  
-If you want to buy me coffee or beer https://paypal.me/nobotro
+ 
